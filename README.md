@@ -58,7 +58,7 @@ I'm a motivated software engineer exploring systems design, backend development,
 - Love breaking down systems to boost efficiency, reliability, and scalability.
 - Always curious—whether reading technical blogs, exploring new tools, or prototyping ideas.
 
-<p align = "centre">
+<p align = "center">
   <img  src="assets/anya-forger-taking-notes.gif" alt="Anya Forger taking notes" width="200" />
 </p>
 
@@ -72,4 +72,5 @@ I'm a motivated software engineer exploring systems design, backend development,
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Siddharth1277&color=blueviolet&style=flat-square)
+
 
